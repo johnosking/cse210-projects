@@ -11,7 +11,7 @@ class Program
         job1._endYear = " 2024";
         job1.DisplayJobDetails();
 
-    
+
         Job job2 = new Job();
         job2._jobTitle = "Data Analyst";
         job2._company = "IBM";

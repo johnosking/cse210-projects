@@ -5,7 +5,7 @@ public class Job
   public string _startYear = " ";
   public string _endYear = " ";
 
-   public string GetJobInfo()
+    public string GetJobInfo()
     {
         return $"{_jobTitle} ({_company}) {_startYear}-{_endYear}";
     }
@@ -14,4 +14,4 @@ public class Job
     {
         Console.WriteLine($"{_jobTitle} ({_company}) {_startYear}-{_endYear}");
     }
-}    
+}

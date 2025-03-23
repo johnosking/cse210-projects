@@ -28,7 +28,7 @@ class Program
         Console.WriteLine($"The sum is: {sum}");
 
         int average = sum / numbersList.Count;
-        Console.WriteLine($"Thee Average is {average}");
+        Console.WriteLine($"The Average is {average}");
 
     
         int max = numbersList[0];
