@@ -9,12 +9,6 @@ class Program
 
         int guess = -1;
 
-        //Console.WriteLine("What is the magic number?. ");
-        //string answer = Console.ReadLine();
-
-        //Console.WriteLine("Guess a number between 1 and 101 ");
-        //string guess = Console.ReadLine();
-        //int magicNumber = int.Parse(answer);
 
         while (guess != magicNumber)
         {
